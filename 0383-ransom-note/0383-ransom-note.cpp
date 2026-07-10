@@ -1,24 +1,16 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        unordered_map<char, int> dictionary;
-        for(char c : magazine){
-            if(dictionary.find(c)==dictionary.end()){
-                dictionary[c] = 1;
-            }
-            else {
-                dictionary[c]++;
-            }
+        unordered_map<char, int> m;
+        for(auto x: magazine){
+            m[x]++;
+
         }
-        for(char c : ransomNote){
-            if(dictionary.find(c) != dictionary.end() && dictionary[c] > 0){
-                dictionary[c]--;
-            }
-            else{
-                return false;
-            }
+        for(auto x: ransomNote){
+            m[x]--;
+            if(m[x]==-1) return 0;
         }
-        return true;
+        return 1;
         
     }
 };
