@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/saurabh2728/Programs/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/saurabh2728/Programs/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/saurabh2728/Programs/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/saurabh2728/Programs/tree/master/0383-ransom-note) |
 ## Linked List
@@ -45,15 +46,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/saurabh2728/Programs/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/saurabh2728/Programs/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saurabh2728/Programs/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/saurabh2728/Programs/tree/master/0169-majority-element) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saurabh2728/Programs/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/saurabh2728/Programs/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saurabh2728/Programs/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/saurabh2728/Programs/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/saurabh2728/Programs/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/saurabh2728/Programs/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/saurabh2728/Programs/tree/master/0383-ransom-note) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/saurabh2728/Programs/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
