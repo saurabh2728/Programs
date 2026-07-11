@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/saurabh2728/Programs/tree/master/0015-3sum) |
+| [0074-search-a-2d-matrix](https://github.com/saurabh2728/Programs/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/saurabh2728/Programs/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saurabh2728/Programs/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saurabh2728/Programs/tree/master/0169-majority-element) |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/saurabh2728/Programs/tree/master/0043-multiply-strings) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/saurabh2728/Programs/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/saurabh2728/Programs/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
