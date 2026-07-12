@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/saurabh2728/Programs/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/saurabh2728/Programs/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saurabh2728/Programs/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/saurabh2728/Programs/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/saurabh2728/Programs/tree/master/0147-insertion-sort-list) |
 | [0169-majority-element](https://github.com/saurabh2728/Programs/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/saurabh2728/Programs/tree/master/0242-valid-anagram) |
+| [0912-sort-an-array](https://github.com/saurabh2728/Programs/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saurabh2728/Programs/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/saurabh2728/Programs/tree/master/0912-sort-an-array) |
 ## Simulation
 |  |
 | ------- |
@@ -84,4 +87,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/saurabh2728/Programs/tree/master/0074-search-a-2d-matrix) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/saurabh2728/Programs/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/saurabh2728/Programs/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/saurabh2728/Programs/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/saurabh2728/Programs/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/saurabh2728/Programs/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
