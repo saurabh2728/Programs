@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/saurabh2728/Programs/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/saurabh2728/Programs/tree/master/0231-power-of-two) |
+| [0973-k-closest-points-to-origin](https://github.com/saurabh2728/Programs/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saurabh2728/Programs/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabh2728/Programs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/saurabh2728/Programs/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/saurabh2728/Programs/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/saurabh2728/Programs/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabh2728/Programs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/saurabh2728/Programs/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/saurabh2728/Programs/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/saurabh2728/Programs/tree/master/0973-k-closest-points-to-origin) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/saurabh2728/Programs/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Counting
 |  |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saurabh2728/Programs/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabh2728/Programs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/saurabh2728/Programs/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/saurabh2728/Programs/tree/master/0973-k-closest-points-to-origin) |
 ## Simulation
 |  |
 | ------- |
@@ -98,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabh2728/Programs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/saurabh2728/Programs/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/saurabh2728/Programs/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -152,4 +157,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabh2728/Programs/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/saurabh2728/Programs/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/saurabh2728/Programs/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
