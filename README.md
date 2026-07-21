@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saurabh2728/Programs/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/saurabh2728/Programs/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/saurabh2728/Programs/tree/master/0383-ransom-note) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/saurabh2728/Programs/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/saurabh2728/Programs/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabh2728/Programs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/saurabh2728/Programs/tree/master/0912-sort-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/saurabh2728/Programs/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/saurabh2728/Programs/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/saurabh2728/Programs/tree/master/0242-valid-anagram) |
 | [0912-sort-an-array](https://github.com/saurabh2728/Programs/tree/master/0912-sort-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/saurabh2728/Programs/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Counting
 |  |
 | ------- |
