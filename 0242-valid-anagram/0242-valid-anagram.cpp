@@ -75,13 +75,31 @@
 //     }
 // };
 
-class Solution {
-public:
-bool isAnagram(string s, string t) {
-sort (s.begin(),s.end()) ;
-sort(t.begin(),t.end());
-if(s==t)
-return 1;
-return 0;
-}
+// class Solution {
+// public:
+// void transpose(){
+    
+    
+//     int arr[5][5];
+    
+//     for(int i=0;i<5;i++){
+        
+//         for(int j=0;j<5;j++){
+            
+//          if(i>j)   swap(arr[i][j],arr[j][i]);
+            
+//         }
+        
+//     }
+    
+// };
+
+class Solution{
+    public:
+    bool isAnagram(string s, string t){
+        sort(s.begin(),s.end());
+        sort(t.begin(),t.end());
+        if(s==t)return 1;
+    return 0;
+    }
 };
