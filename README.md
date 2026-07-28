@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/saurabh2728/Programs/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/saurabh2728/Programs/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/saurabh2728/Programs/tree/master/0147-insertion-sort-list) |
+| [0206-reverse-linked-list](https://github.com/saurabh2728/Programs/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/saurabh2728/Programs/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/saurabh2728/Programs/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/saurabh2728/Programs/tree/master/0231-power-of-two) |
 ## Array
 |  |
