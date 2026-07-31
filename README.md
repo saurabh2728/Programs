@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/saurabh2728/Programs/tree/master/0043-multiply-strings) |
 | [0231-power-of-two](https://github.com/saurabh2728/Programs/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/saurabh2728/Programs/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/saurabh2728/Programs/tree/master/0973-k-closest-points-to-origin) |
 ## Bit Manipulation
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/saurabh2728/Programs/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/saurabh2728/Programs/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/saurabh2728/Programs/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -176,4 +178,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/saurabh2728/Programs/tree/master/0200-number-of-islands) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/saurabh2728/Programs/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/saurabh2728/Programs/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
