@@ -34,7 +34,6 @@ class Solution {
 public:
     int fib(int n) {
         int dp[n + 1];
-
         if (n == 0 || n == 1) return n;
 
         dp[0] = 0;
