@@ -1,20 +1,49 @@
+// #memoization
+// class Solution {
+// public:
+//     int dp[1001][1001];
+//     int lcs(string &a, string &b, int n, int m) {
+//         if (n == 0 || m == 0)
+//             return 0;
+//         if(dp[n][m] != -1)
+//         return dp[n][m];
+//         if (a[n - 1] == b[m - 1])
+//             return dp[n][m]=1 + lcs(a, b, n - 1, m - 1);
+
+//         return dp[n][m]=max(lcs(a, b, n - 1, m),
+//                    lcs(a, b, n, m - 1));
+//     }
+
+//     int longestCommonSubsequence(string text1, string text2) {
+//         memset(dp,-1,sizeof(dp));
+//         return lcs(text1, text2, text1.size(), text2.size());
+//     }
+// };
+
 class Solution {
 public:
-    int dp[1001][1001];
-    int lcs(string &a, string &b, int n, int m) {
-        if (n == 0 || m == 0)
-            return 0;
-        if(dp[n][m] != -1)
-        return dp[n][m];
-        if (a[n - 1] == b[m - 1])
-            return dp[n][m]=1 + lcs(a, b, n - 1, m - 1);
-
-        return dp[n][m]=max(lcs(a, b, n - 1, m),
-                   lcs(a, b, n, m - 1));
-    }
-
     int longestCommonSubsequence(string text1, string text2) {
-        memset(dp,-1,sizeof(dp));
-        return lcs(text1, text2, text1.size(), text2.size());
+        int n = text1.size();
+        int m = text2.size();
+
+        int dp[n + 1][m + 1];
+
+        for (int i = 0; i <= n; i++) {
+            for (int j = 0; j <= m; j++) {
+
+                if (i == 0 || j == 0) {
+                    dp[i][j] = 0;
+                    continue;
+                }
+
+                dp[i][j] = max(dp[i - 1][j], dp[i][j - 1]);
+
+                if (text1[i - 1] == text2[j - 1]) {
+                    dp[i][j] = max(dp[i][j], 1 + dp[i - 1][j - 1]);
+                }
+            }
+        }
+
+        return dp[n][m];
     }
 };
