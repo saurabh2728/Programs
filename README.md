@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/saurabh2728/Programs/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/saurabh2728/Programs/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/saurabh2728/Programs/tree/master/0383-ransom-note) |
+| [0583-delete-operation-for-two-strings](https://github.com/saurabh2728/Programs/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/saurabh2728/Programs/tree/master/1143-longest-common-subsequence) |
 ## Math
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/saurabh2728/Programs/tree/master/0509-fibonacci-number) |
+| [0583-delete-operation-for-two-strings](https://github.com/saurabh2728/Programs/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/saurabh2728/Programs/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
@@ -197,5 +199,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Longest Common Subsequence
 |  |
 | ------- |
+| [0583-delete-operation-for-two-strings](https://github.com/saurabh2728/Programs/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/saurabh2728/Programs/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
